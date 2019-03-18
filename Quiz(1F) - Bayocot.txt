@@ -1,0 +1,19 @@
+Observations : 
+	
+	- Panel switch is shorted, we had to unplug and plug it again to turn it on.
+	- Computer turns on fine for few seconds (5-6 seconds) and then turns off, this made us suggest a bad current is going through the circuit.
+	- All fans work except the fan in the power supply (another hint that the power supply have problems).
+	- RAM is cleaned and the CMOS battery works.
+	- The system is not properly cleaned. Cobwebs and dusts are present, especially in the power supply.
+	- There is one "bloated" capacitor in the power supply.
+
+Problems :
+
+	- Computer can't power on completely, it turns off after few seconds of booting.
+	- Not enough boot time to hear beeps from built in speaker.
+
+Solution :
+
+	- Firstly, there must be a problem on the power supply. Check if the cables are properly plugged.
+	- Try replacing the power supply. If there are still problems, then the problem must be in the motherboard.
+	- Clean the unit. There must be dust particles or other problems causing a fluctuation in the current.
